@@ -1,0 +1,6 @@
+{
+"id":"sudoers",
+"gid":3005,
+"members":[ "admin","root" ]
+
+}
